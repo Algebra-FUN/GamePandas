@@ -1,1 +1,1 @@
-from gameframes import *
+from .gameframes import *
